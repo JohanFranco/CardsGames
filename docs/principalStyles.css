@@ -5,7 +5,7 @@ body{
 .header{
     width: 100%;
     height: 100vh;
-    background-image:url(Img/zelda.jpg);
+    background-image:url(/docs/img/zelda.jpg);
      background-size:cover;
     -webkit-background-size:cover;
     background-position:center;
